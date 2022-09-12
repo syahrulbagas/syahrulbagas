@@ -7,7 +7,7 @@
 
 <!-- syahrulbagas/syahrulbagas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes. --> 
-[![Mail Badge](https://img.shields.io/badge/-Syahrul Bagas-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/syahrulbagas)
+[![Mail Badge](https://img.shields.io/badge/-SyahrulBagas-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://youtube.com/syahrulbagas)
 [![Mail Badge](https://img.shields.io/badge/-@_syahrulaxl-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/_syahrulaxl)
 [![Mail Badge](https://img.shields.io/badge/-SyahrulBagas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:syahrulbagas234@gmail.com)
 
